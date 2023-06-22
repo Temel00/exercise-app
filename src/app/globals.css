@@ -18,5 +18,14 @@
 
 body {
   color: rgb(var(--foreground-rgb));
-  background: white;
+  background: #ffffff;
+}
+
+h1{
+  font-family: 'Black Han Sans', sans-serif;
+  font-size: 2rem;
+}
+
+h2, h3, h4 {
+  font-family: 'Syne', sans-serif;
 }
